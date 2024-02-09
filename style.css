@@ -1,0 +1,26 @@
+body{
+    background: url(fundo.jpg) no-repeat;
+    background-attachment: fixed;
+}
+
+.conteiner{
+    border: 1px solid red;
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.foto-de-perfil{
+    position: relative;
+    top: -10%;
+}
+
+.Formulário{
+    border: 1px solid green;
+    position: relative;
+    top: -64px;
+    background: #ffffff5d;
+    border-radius: 5px;
+}
